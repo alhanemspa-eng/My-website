@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://alhanembeautyspa.shop/sitemap.xml
